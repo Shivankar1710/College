@@ -13,4 +13,4 @@ while(tol < err)
     k = K;
 end
 disp(k);
-eig(A);
+disp(eig(A));
